@@ -110,3 +110,13 @@ ion-icon{
     background-color: #ff4d4d;
     color: #FFF;
 }
+
+.hide{
+    display: none;
+}
+
+#task-list li.done{
+    background-color: purple;
+    color: #FFF;
+    text-decoration: line-through;
+}
